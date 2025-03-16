@@ -1,0 +1,263 @@
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Private.CoreLib.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/Microsoft.iOS.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Runtime.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Collections.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Runtime.InteropServices.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Threading.Thread.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Threading.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.Http.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.Primitives.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Numerics.Vectors.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.Sockets.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Drawing.Primitives.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Private.Uri.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/Xamarin.PreBuilt.iOS.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Collections.Concurrent.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/Xamarin.iOS.HotRestart.Application.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/netstandard.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.IO.MemoryMappedFiles.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.IO.Pipes.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Memory.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Diagnostics.Tracing.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Collections.NonGeneric.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Runtime.Intrinsics.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/Microsoft.Win32.Primitives.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.NameResolution.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Diagnostics.DiagnosticSource.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Threading.ThreadPool.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Diagnostics.Process.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.ComponentModel.Primitives.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.ComponentModel.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.ObjectModel.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Diagnostics.FileVersionInfo.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Reflection.Metadata.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Collections.Immutable.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Linq.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.IO.Compression.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Text.Encoding.Extensions.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Collections.Specialized.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Security.Cryptography.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Formats.Asn1.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Runtime.Numerics.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.ComponentModel.TypeConverter.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Runtime.Loader.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Text.RegularExpressions.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Reflection.Emit.ILGeneration.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Reflection.Emit.Lightweight.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Reflection.Primitives.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.Security.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Security.Claims.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Runtime.Serialization.Formatters.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Resources.Writer.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Xml.XDocument.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Private.Xml.Linq.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Private.Xml.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Diagnostics.TraceSource.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.Quic.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.IO.Compression.Brotli.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Threading.Channels.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.NetworkInformation.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Reflection.Emit.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Linq.Expressions.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.ComponentModel.EventBasedAsync.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Console.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Data.Common.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Xml.ReaderWriter.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Xml.XmlSerializer.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Transactions.Local.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Diagnostics.Contracts.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Diagnostics.TextWriterTraceListener.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Diagnostics.StackTrace.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.IO.Compression.ZipFile.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.IO.FileSystem.DriveInfo.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.IO.FileSystem.Watcher.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.IO.IsolatedStorage.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Linq.Queryable.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Linq.Parallel.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.Requests.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.WebHeaderCollection.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.ServicePoint.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.HttpListener.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.WebSockets.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Security.Principal.Windows.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.WebClient.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Web.HttpUtility.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.WebProxy.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.Mail.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.Ping.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Net.WebSockets.Client.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Reflection.DispatchProxy.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Runtime.CompilerServices.VisualC.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Runtime.Serialization.Primitives.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Runtime.Serialization.Xml.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Private.DataContractSerialization.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Runtime.Serialization.Json.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Threading.Overlapped.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Threading.Tasks.Parallel.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Xml.XPath.XDocument.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Xml.XPath.dll [External]
+Thread started:  #2
+Thread started: .NET Timer #3
+Thread started: <Thread Pool> #4
+Thread started: .NET TP Gate #5
+Thread started: <Thread Pool> #6
+2025-03-12 18:05:27.686 Xamarin.PreBuilt.iOS[652:83241] App path /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/TestMathFuncs.dll
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/TestMathFuncs.dll
+2025-03-12 18:05:27.685 Xamarin.PreBuilt.iOS[652:83241] Content folder: /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Maui.Controls.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Maui.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.Cryptography.X509Certificates.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Globalization.Extensions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Text.Json.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.IO.FileSystem.dll [External]
+2025-03-12 18:05:27.705 Xamarin.PreBuilt.iOS[652:83241] AppDelegate name: AppDelegate
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.SecureString.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.Cryptography.Cng.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.Principal.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Reflection.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Threading.Timer.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.IO.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Maui.Graphics.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.ComponentModel.DataAnnotations.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Threading.Tasks.Dataflow.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Reflection.TypeExtensions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/MathFuncs.dll
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/MathFuncs.dll. Type:MyMathFuncs. Exception: '__Internal'. Callstack: '   at MyMathFuncs..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Xml.XmlDocument.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.ServiceProcess.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.Cryptography.Encoding.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Runtime.Handles.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.CSharp.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Data.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Maui.Controls.Compatibility.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Formats.Tar.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.ValueTuple.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.AppContext.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Xml.Serialization.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Configuration.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Diagnostics.Debug.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Diagnostics.Tools.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Reflection.Extensions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.Cryptography.Algorithms.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Xml.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.VisualBasic.Core.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Windows.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Numerics.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Core.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Globalization.Calendars.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.ServiceModel.Web.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/mscorlib.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Dynamic.Runtime.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Runtime.Serialization.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Extensions.DependencyInjection.Abstractions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Extensions.Logging.Abstractions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.IO.FileSystem.AccessControl.dll [External]
+Loaded assembly: /private/var/containers/Bundle/Application/A75CBFA6-80F0-4B22-AF2A-24EBB301FBF8/TestMathFuncs.app/System.Security.AccessControl.dll [External]
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.IO.FileSystem.AccessControl.dll. Type:System.Security.AccessControl.DirectorySecurity. Exception: 'Access Control List (ACL) APIs are part of resource management on Windows and are not supported on this platform.'. Callstack: '   at System.Security.AccessControl.ObjectSecurity..ctor()
+   at System.Security.AccessControl.CommonObjectSecurity..ctor(Boolean isContainer)
+   at System.Security.AccessControl.NativeObjectSecurity..ctor(Boolean isContainer, ResourceType resourceType)
+   at System.Security.AccessControl.FileSystemSecurity..ctor()
+   at System.Security.AccessControl.DirectorySecurity..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.IO.FileSystem.AccessControl.dll. Type:System.Security.AccessControl.FileSecurity. Exception: 'Access Control List (ACL) APIs are part of resource management on Windows and are not supported on this platform.'. Callstack: '   at System.Security.AccessControl.ObjectSecurity..ctor()
+   at System.Security.AccessControl.CommonObjectSecurity..ctor(Boolean isContainer)
+   at System.Security.AccessControl.NativeObjectSecurity..ctor(Boolean isContainer, ResourceType resourceType)
+   at System.Security.AccessControl.FileSystemSecurity..ctor()
+   at System.Security.AccessControl.FileSecurity..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Buffers.dll [External]
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.AccessControl.dll. Type:System.Security.Policy.Evidence. Exception: 'Access Control List (ACL) APIs are part of resource management on Windows and are not supported on this platform.'. Callstack: '   at System.Security.Policy.Evidence..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.AccessControl.dll. Type:System.Security.AccessControl.AuthorizationRuleCollection. Exception: 'Access Control List (ACL) APIs are part of resource management on Windows and are not supported on this platform.'. Callstack: '   at System.Security.AccessControl.AuthorizationRuleCollection..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.AccessControl.dll. Type:System.Security.AccessControl.PrivilegeNotHeldException. Exception: 'Access Control List (ACL) APIs are part of resource management on Windows and are not supported on this platform.'. Callstack: '   at System.Security.AccessControl.PrivilegeNotHeldException..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Extensions.Logging.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Extensions.Options.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Maui.Controls.Xaml.dll [External]
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.IO.FileSystem.Watcher.dll. Type:System.IO.FileSystemWatcher. Exception: 'System.IO.FileSystem.Watcher is not supported on this platform.'. Callstack: '   at System.IO.FileSystemWatcher..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.IO.FileSystem.Watcher.dll. Type:System.IO.InternalBufferOverflowException. Exception: 'System.IO.FileSystem.Watcher is not supported on this platform.'. Callstack: '   at System.IO.InternalBufferOverflowException..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Text.Encoding.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.Cryptography.Csp.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Runtime.CompilerServices.Unsafe.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Extensions.Configuration.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Extensions.Configuration.Abstractions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Extensions.Primitives.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Runtime.Extensions.dll [External]
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.Principal.Windows.dll. Type:Microsoft.Win32.SafeHandles.SafeAccessTokenHandle. Exception: 'Windows Principal functionality is not supported on this platform.'. Callstack: '   at Microsoft.Win32.SafeHandles.SafeAccessTokenHandle..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.Principal.Windows.dll. Type:System.Security.Principal.IdentityNotMappedException. Exception: 'Windows Principal functionality is not supported on this platform.'. Callstack: '   at System.Security.Principal.IdentityNotMappedException..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.Principal.Windows.dll. Type:System.Security.Principal.IdentityReferenceCollection. Exception: 'Windows Principal functionality is not supported on this platform.'. Callstack: '   at System.Security.Principal.IdentityReferenceCollection..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Net.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.IO.Pipes.AccessControl.dll [External]
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.IO.Pipes.AccessControl.dll. Type:System.IO.Pipes.PipeSecurity. Exception: 'Access Control List (ACL) APIs are part of resource management on Windows and are not supported on this platform.'. Callstack: '   at System.Security.AccessControl.ObjectSecurity..ctor()
+   at System.Security.AccessControl.CommonObjectSecurity..ctor(Boolean isContainer)
+   at System.Security.AccessControl.NativeObjectSecurity..ctor(Boolean isContainer, ResourceType resourceType)
+   at System.IO.Pipes.PipeSecurity..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Threading.Tasks.Extensions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Text.Encodings.Web.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.IO.UnmanagedMemoryStream.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Web.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Xml.Linq.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.ComponentModel.Annotations.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Threading.Tasks.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Resources.ResourceManager.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Win32.Registry.dll [External]
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Win32.Registry.dll. Type:Microsoft.Win32.SafeHandles.SafeRegistryHandle. Exception: 'Registry is not supported on this platform.'. Callstack: '   at Microsoft.Win32.SafeHandles.SafeRegistryHandle..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Win32.Registry.dll. Type:System.Security.AccessControl.RegistrySecurity. Exception: 'Access Control List (ACL) APIs are part of resource management on Windows and are not supported on this platform.'. Callstack: '   at System.Security.AccessControl.ObjectSecurity..ctor()
+   at System.Security.AccessControl.CommonObjectSecurity..ctor(Boolean isContainer)
+   at System.Security.AccessControl.NativeObjectSecurity..ctor(Boolean isContainer, ResourceType resourceType)
+   at System.Security.AccessControl.RegistrySecurity..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Transactions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Runtime.InteropServices.RuntimeInformation.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/WindowsBase.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.IO.Compression.FileSystem.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Extensions.Logging.Debug.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Data.DataSetExtensions.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.Cryptography.Primitives.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Maui.Essentials.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.IO.FileSystem.Primitives.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Globalization.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Net.Http.Json.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Security.Cryptography.OpenSsl.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Runtime.InteropServices.JavaScript.dll [External]
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Runtime.InteropServices.JavaScript.dll. Type:System.Runtime.InteropServices.JavaScript.JSExportAttribute. Exception: 'System.Runtime.InteropServices.JavaScript is not supported on this platform.'. Callstack: '   at System.Runtime.InteropServices.JavaScript.JSExportAttribute..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.Extensions.DependencyInjection.dll [External]
+Thread started: .NET Sockets #7
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Text.Encoding.CodePages.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/Microsoft.VisualBasic.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Drawing.dll [External]
+Loaded assembly: /private/var/mobile/Containers/Data/Application/08536FB2-C55E-4B60-A211-E63C96F3FDE4/Documents/TestMathFuncs.content/System.Resources.Reader.dll [External]
+2025-03-12 18:05:28.470 Xamarin.PreBuilt.iOS[652:83241] You've implemented -[<UIApplicationDelegate> application:performFetchWithCompletionHandler:], but you still need to add "fetch" to the list of your supported UIBackgroundModes in your Info.plist.
+2025-03-12 18:05:28.990 Xamarin.PreBuilt.iOS[652:83241] WARNING: This app's CFBundleDevelopmentRegion is not a string value. This can lead to unexpected results at runtime. Please change CFBundleDevelopmentRegion in your Info.plist to a string value.
+[0:] An error occurred: '__Internal'. Callstack: '   at MyMathFuncs..ctor()
+   at TestMathFuncs.MainPage..ctor() in C:\Users\brian\Desktop\TestMathFuncs\TestMathFuncs\MainPage.xaml.cs:line 9
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+The app has been terminated.
