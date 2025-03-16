@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0kHO2XNGRPk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brian\\Desktop\\CppMathFuncsNuGet\\MathFuncs\\MathFuncs.iOS\\MathFuncs.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.13\\microsoft.net.illink.tasks.8.0.13.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.ios.ref.net8.0_18.0\\18.0.8319\\microsoft.ios.ref.net8.0_18.0.18.0.8319.nupkg.sha512"
+  ],
+  "logs": []
+}

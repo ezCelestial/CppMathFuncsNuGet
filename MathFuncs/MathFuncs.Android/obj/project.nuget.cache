@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ACHq3s7iqPI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brian\\Desktop\\CppMathFuncsNuGet\\MathFuncs\\MathFuncs.Android\\MathFuncs.Android.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.13\\microsoft.net.illink.tasks.8.0.13.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.android.ref.34\\34.0.147\\microsoft.android.ref.34.34.0.147.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,49 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "MathFuncs.Shared", "MathFuncs.Shared\MathFuncs.Shared.shproj", "{C5AEF2B2-F477-40B7-8749-3AFFE1BE8C0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFuncs.Windows", "MathFuncs.Windows\MathFuncs.Windows.csproj", "{DDB631C5-47C2-434C-BDCD-CC857184A06A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFuncs.Android", "MathFuncs.Android\MathFuncs.Android.csproj", "{A1E22C9E-377E-4AD5-8F57-B6BC5056BB1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathFuncs.iOS", "MathFuncs.iOS\MathFuncs.iOS.csproj", "{8CAF16EE-2F63-4BFD-AEDE-F2A45007023B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionIterms", "SolutionIterms", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		MathFuncs.nuspec = MathFuncs.nuspec
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB631C5-47C2-434C-BDCD-CC857184A06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB631C5-47C2-434C-BDCD-CC857184A06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB631C5-47C2-434C-BDCD-CC857184A06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB631C5-47C2-434C-BDCD-CC857184A06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E22C9E-377E-4AD5-8F57-B6BC5056BB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E22C9E-377E-4AD5-8F57-B6BC5056BB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E22C9E-377E-4AD5-8F57-B6BC5056BB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E22C9E-377E-4AD5-8F57-B6BC5056BB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CAF16EE-2F63-4BFD-AEDE-F2A45007023B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CAF16EE-2F63-4BFD-AEDE-F2A45007023B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CAF16EE-2F63-4BFD-AEDE-F2A45007023B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CAF16EE-2F63-4BFD-AEDE-F2A45007023B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28EF99CD-624D-4DDA-A2B4-E07EDD4FC3DB}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		MathFuncs.Shared\MathFuncs.Shared.projitems*{8caf16ee-2f63-4bfd-aede-f2a45007023b}*SharedItemsImports = 5
+		MathFuncs.Shared\MathFuncs.Shared.projitems*{a1e22c9e-377e-4ad5-8f57-b6bc5056bb1e}*SharedItemsImports = 5
+		MathFuncs.Shared\MathFuncs.Shared.projitems*{c5aef2b2-f477-40b7-8749-3affe1be8c0b}*SharedItemsImports = 13
+		MathFuncs.Shared\MathFuncs.Shared.projitems*{ddb631c5-47c2-434c-bdcd-cc857184a06a}*SharedItemsImports = 5
+	EndGlobalSection
+EndGlobal

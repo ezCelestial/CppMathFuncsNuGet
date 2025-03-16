@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>MathFuncs</RootNamespace>
+    <AssemblyName>MathFuncs</AssemblyName>
+  </PropertyGroup>
+
+  <Import Project="..\MathFuncs.Shared\MathFuncs.Shared.projitems" Label="Shared" />
+
+</Project>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<package>
+	<metadata>
+		<id>MathFuncs</id>
+		<version>$version$</version>
+		<authors>Microsoft Mobile Customer Advisory Team</authors>
+		<description>Sample C++ Wrapper Library</description>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<copyright>Copyright 2018</copyright>
+	</metadata>
+	<files>
+
+		<!-- Android -->
+	  <file src="MathFuncs.Android\bin\Release\net8.0-android34.0\*.*" target="lib\net8.0-android34.0" />
+
+		<!-- iOS -->
+	  <file src="MathFuncs.iOS\bin\Release\net8.0-ios18.0\*.*" target="lib\net8.0-ios18.0" />
+	  <file src="MathFuncs.iOS\bin\Release\net8.0-ios18.0\MathFuncs.resources\libMathFuncs.a" target="lib\net8.0-ios18.0\MathFuncs.resources" />
+	  <file src="MathFuncs.iOS\bin\Release\net8.0-ios18.0\MathFuncs.resources\manifest" target="lib\net8.0-ios18.0\MathFuncs.resources" />
+
+		<!-- Windows -->
+	  <file src="MathFuncs.Windows\bin\Release\net8.0\**\*.*" target="lib\net8.0" />
+
+	</files>
+</package>

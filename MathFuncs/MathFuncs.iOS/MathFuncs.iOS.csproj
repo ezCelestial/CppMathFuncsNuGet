@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-ios18.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>true</ImplicitUsings>
+    <IsBindingProject>true</IsBindingProject>
+
+    <!--
+      Enable trim analyzers for class libraries.
+      To learn more, see: https://learn.microsoft.com/dotnet/core/deploying/trimming/prepare-libraries-for-trimming
+    -->
+    <IsTrimmable>true</IsTrimmable>
+    <RootNamespace>MathFuncs</RootNamespace>
+    <AssemblyName>MathFuncs</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>$(DefineConstants);iOS;</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DefineConstants>$(DefineConstants);iOS;</DefineConstants>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ObjcBindingApiDefinition Include="ApiDefinition.cs" />
+    <ObjcBindingCoreSource Include="StructsAndEnums.cs" />
+  </ItemGroup>
+
+	<PropertyGroup>
+		<MtouchLink>Full</MtouchLink>
+		<AdditionalArgs>-cxx -gcc_flags "-L${ProjectDir} -lMathFuncs -force_load ${ProjectDir}/libMathFuncs.a"</AdditionalArgs>
+		<SupportedOSPlatformVersion>16.0</SupportedOSPlatformVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<NativeReference Include="libMathFuncs.a" Kind="Static">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<ForceLoad>True</ForceLoad>
+			<IsCxx>True</IsCxx>
+			<SmartLink>True</SmartLink>
+		</NativeReference>
+	</ItemGroup>
+
+	<Import Project="..\MathFuncs.Shared\MathFuncs.Shared.projitems" Label="Shared" />
+</Project>
