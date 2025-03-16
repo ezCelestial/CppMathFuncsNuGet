@@ -1,0 +1,46 @@
+I am trying to create a Maui NuGet package for C++ library files as it was done for Xamarin here: https://learn.microsoft.com/en-us/previous-versions/xamarin/cross-platform/cpp/. This procedure works Xamarin.Forms using Visual Studio for Mac. Because the Nuget packages I made for Xamarin.Forms do not work in a Maui project, and because Visual Studio for Mac is no longer supported (as of Sept 2024). I am trying to rebuild these NuGet packages with Visual Studio 2022 for Windows and .NET8 MAUI.
+
+I followed the procedure above starting at stage 2. I used the pre built MathFunc library files provided but built in on Windows using current templates in VS 2022 NET8. I can "mostly" follow the instructions in the Xamarin walkthrough but some interpretation was necessary. For the iOS binding library I had to manually update the project to pull in the fat library as a native reference using this power shell code:
+
+	<PropertyGroup>
+		<MtouchLink>Full</MtouchLink>
+		<AdditionalArgs>-cxx -gcc_flags "-L${ProjectDir} -lMathFuncs -force_load ${ProjectDir}/libMathFuncs.a"</AdditionalArgs>
+		<SupportedOSPlatformVersion>16.0</SupportedOSPlatformVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<NativeReference Include="libMathFuncs.a" Kind="Static">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<ForceLoad>True</ForceLoad>
+			<IsCxx>True</IsCxx>
+			<SmartLink>True</SmartLink>
+		</NativeReference>
+	</ItemGroup>
+
+The iOS Binding Project then builds correctly, but instead of building JUST the dll and pdb files as on the Mac, the release directory contains 180+ files. Also a MathFuncs.resources directory with a manifest file and the libMathFuncs.a file.  The problem may be just in knowing what to bring into the NuGet package.  When I bring everything from the release directory into the NuGet package I get the following exceptions (in Output tab) when starting debug of my MAUI test application using the NuGet package: 
+
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/4E0E1533-FB11-4CB6-A7D0-E3D743CF51A2/Documents/TestMathFuncs.content/MathFuncs.dll. Type:MyMathFuncs. Exception: '__Internal'. Callstack: '   at MyMathFuncs..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/4E0E1533-FB11-4CB6-A7D0-E3D743CF51A2/Documents/TestMathFuncs.content/System.IO.FileSystem.AccessControl.dll. Type:System.Security.AccessControl.DirectorySecurity. Exception: 'Access Control List (ACL) APIs are part of resource management on Windows and are not supported on this platform.'. Callstack: '   at System.Security.AccessControl.ObjectSecurity..ctor()
+   at System.Security.AccessControl.CommonObjectSecurity..ctor(Boolean isContainer)
+   at System.Security.AccessControl.NativeObjectSecurity..ctor(Boolean isContainer, ResourceType resourceType)
+   at System.Security.AccessControl.FileSystemSecurity..ctor()
+   at System.Security.AccessControl.DirectorySecurity..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+[0:] Failed to force load assembly /var/mobile/Containers/Data/Application/4E0E1533-FB11-4CB6-A7D0-E3D743CF51A2/Documents/TestMathFuncs.content/System.IO.FileSystem.AccessControl.dll. Type:System.Security.AccessControl.FileSecurity. Exception: 'Access Control List (ACL) APIs are part of resource management on Windows and are not supported on this platform.'. Callstack: '   at System.Security.AccessControl.ObjectSecurity..ctor()
+   at System.Security.AccessControl.CommonObjectSecurity..ctor(Boolean isContainer)
+   at System.Security.AccessControl.NativeObjectSecurity..ctor(Boolean isContainer, ResourceType resourceType)
+   at System.Security.AccessControl.FileSystemSecurity..ctor()
+   at System.Security.AccessControl.FileSecurity..ctor()
+   at System.Reflection.MethodBaseInvoker.InterpretedInvoke_Constructor(Object obj, IntPtr* args)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)'
+ 
+For iOS, the test app using the NuGet package terminates when the MathFuncs constructor is called.
+
+On Android, only a dll, pdb, and aar files are created in the Release directory. Bringing all 3 into the NuGet package does work. The test app pulling in the NuGet package can successfully call the math functions.
+
+Is there something I am doing wrong? I haven't found any other examples of building a NuGet package for MAUI using C++ library files.
+
+
